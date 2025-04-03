@@ -1,0 +1,4 @@
+this is a conflict file
+
+this line has the change ++++
+then remain same
