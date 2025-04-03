@@ -1,4 +1,5 @@
-this is a conflict file
+this is a file
 
-this line has the change ++++
-then remain same
+in this line conflict should arise
+this line will be same
+
