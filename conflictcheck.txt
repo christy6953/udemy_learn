@@ -1,0 +1,5 @@
+this is a file
+
+in this line conflict should arise
+this line will be same
+
